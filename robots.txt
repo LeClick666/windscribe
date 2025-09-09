@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://windscribe-vpn-connect.ru/sitemap.xml
